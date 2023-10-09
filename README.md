@@ -41,6 +41,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to [Your Name] for their contributions.
 
 Feel free to reach out if you have any questions or suggestions!
-```
-
-Feel free to customize it further to suit your preferences and provide more specific details about the game or its implementation.
