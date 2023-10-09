@@ -1,12 +1,12 @@
 # Guess My Number Game
 
-Welcome to the Guess My Number game! This is a simple number guessing game where players try to guess a randomly generated number within a specified range.
+Welcome to the Guess My Number game! This is a simple number-guessing game where players try to guess a randomly generated number within a specified range.
 
 ## How to Play
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/guess-my-number.git
+   git clone https://github.com/abdul-1432/Guess_My_Number_Game
    ```
 
 2. **Navigate to the Project:**
