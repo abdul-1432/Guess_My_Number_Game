@@ -16,7 +16,7 @@ Welcome to the Guess My Number game! This simple web-based game allows users to 
 - Randomly generated target number within a specified range.
 - User input for guessing the number.
 - Feedback messages on the guess (too high, too low, or correct).
-- Track of the number of attempts taken to guess the correct number.
+- Track the number of attempts taken to guess the correct number.
 
 ## Installation
 
@@ -51,5 +51,3 @@ If you'd like to contribute to this project, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to customize the content based on your specific game and preferences. Ensure that you have a `LICENSE` file in your repository with the appropriate license information.
