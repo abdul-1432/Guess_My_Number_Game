@@ -1,43 +1,55 @@
 # Guess My Number Game
 
-Welcome to the Guess My Number game! This is a simple number-guessing game where players try to guess a randomly generated number within a specified range.
+Welcome to the Guess My Number game! This simple web-based game allows users to guess a randomly generated number within a specified range.
 
-## How to Play
+## Table of Contents
 
-1. **Clone the Repository:**
+- [Features](#features)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+## Features
+
+- Randomly generated target number within a specified range.
+- User input for guessing the number.
+- Feedback messages on the guess (too high, too low, or correct).
+- Track of the number of attempts taken to guess the correct number.
+
+## Installation
+
+1. Clone the repository:
+
    ```bash
    git clone https://github.com/abdul-1432/Guess_My_Number_Game
    ```
 
-2. **Navigate to the Project:**
-   ```bash
-   cd guess-my-number
-   ```
+2. Open the `index.html` file in your web browser.
 
-3. **Run the Game:**
-   ```bash
-   python guess_my_number.py
-   ```
+## How to Play
 
-4. **Follow the Instructions:**
-   - The game will prompt you to enter a range for the random number (e.g., 1 to 100).
-   - Try to guess the correct number within the given range.
-   - You will be informed if your guess is too high or too low.
-   - Keep guessing until you find the correct number.
-
-5. **Have Fun!**
+1. Open the game in your web browser.
+2. Enter your guess in the input field.
+3. Click the "Submit" button.
+4. Receive feedback on your guess.
+5. Repeat steps 2-4 until you correctly guess the number.
+6. Celebrate your victory!
 
 ## Contributing
 
-If you'd like to contribute to the project, feel free to submit a pull request. Contributions are always welcome.
+If you'd like to contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- This game was inspired by classic number guessing games.
-- Special thanks to [Your Name] for their contributions.
-
-Feel free to reach out if you have any questions or suggestions!
+Feel free to customize the content based on your specific game and preferences. Ensure that you have a `LICENSE` file in your repository with the appropriate license information.
