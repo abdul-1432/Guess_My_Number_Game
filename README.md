@@ -1,6 +1,8 @@
 # Guess My Number Game
 
-Welcome to the Guess My Number game! This simple web-based game allows users to guess a randomly generated number within a specified range.
+Welcome to the Guess My Number game! 
+
+This simple web-based game allows users to guess a randomly generated number within a specified range.
 
 ## Table of Contents
 
